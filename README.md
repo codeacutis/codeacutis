@@ -1,6 +1,7 @@
 ## 👋 Hi! I'm João Pedro
 
-🎯 Full Stack Developer in training  
+🎯 Full Stack Developer in training
+🎓 Information Systems student 
 💻 Focused on Java, Spring Boot, and SQL  
 
 ### 🚀 Featured Projects
