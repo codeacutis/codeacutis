@@ -6,7 +6,7 @@
 
 ### 🚀 Featured Projects
 - 🔗 [Library Management System](https://github.com/codeacutis/Sistema_Biblioteca.git)
-- 🔗 [Clinic Management System](link)
+- 🔗 [Clinic Management System](https://github.com/codeacutis/sistema-clinica-maven.git)
 - 🔗 [Project X](link)
 
 ### 🧠 Technologies
