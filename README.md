@@ -5,7 +5,7 @@
 💻 Focused on Java, Spring Boot, and SQL  
 
 ### 🚀 Featured Projects
-- 🔗 [Banking System in Java](link)
+- 🔗 [Library Management System](https://github.com/codeacutis/Sistema_Biblioteca.git)
 - 🔗 [REST API with Spring Boot](link)
 - 🔗 [Project X](link)
 
