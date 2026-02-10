@@ -6,7 +6,7 @@
 
 ### 🚀 Featured Projects
 - 🔗 [Library Management System](https://github.com/codeacutis/Sistema_Biblioteca.git)
-- 🔗 [REST API with Spring Boot](link)
+- 🔗 [Clinic Management System](link)
 - 🔗 [Project X](link)
 
 ### 🧠 Technologies
