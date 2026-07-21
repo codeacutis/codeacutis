@@ -7,10 +7,10 @@
 ### 🚀 Featured Projects
 - 🔗 [Library Management System](https://github.com/codeacutis/Sistema_Biblioteca.git)
 - 🔗 [Clinic Management System](https://github.com/codeacutis/sistema-clinica-maven.git)
-- 🔗 [Essential Oil Evaluation System (TEA) - [In Development]](https://github.com/codeacutis/sistema-avaliacao-oleos.git)
+- 🔗 [PotterVerse](https://github.com/codeacutis/PotterVerse.git)
 
 ### 🧠 Technologies
-Java | Spring Boot | SQL | HTML | CSS | Python
+Java | Spring Boot | Javascript | React | SQL | HTML | CSS | Python
 
-📫 Contact: rodriguesjoaopedro133@gmail.com
+📫 Contact: jp.rvboas@outlook.com
 
